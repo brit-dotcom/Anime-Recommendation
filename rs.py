@@ -134,7 +134,7 @@ def set_background(image_path):
         </style>
     """, unsafe_allow_html=True)
 
-set_background(r"C:\Users\britn\Downloads\Sailor Moon🌙 #sailormoon.gif")
+set_background(r"sailormoon.gif")
 # setting up the side bar
 with st.sidebar:
     st.subheader('filter your recommendations:')
